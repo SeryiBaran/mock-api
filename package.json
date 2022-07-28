@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+  	"start": "json-server index.js"
+  },
   "dependencies": {
     "@faker-js/faker": "^7.3.0",
     "json-server": "^0.17.0"
